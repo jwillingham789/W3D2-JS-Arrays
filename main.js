@@ -1,6 +1,5 @@
 var movie = [],
-    badMovie = [],
-    allMovies = movie.concat(badMovie)
+    badMovie = []
 
 //GOOD MOVIES
 gameOfThrones = {
